@@ -14,7 +14,7 @@ Core Canvas is a graphics rendering library which provides a hierarchical displa
 A UI library written on-top of this library is under developement and will soon be publiched as a repository here.
 
 ### Road Map
-A more detailed description of to road map is found within the [TODO.md](https://github.com/raweden/CoreCanvas/blob/master/Todo.md) and [Ideas.md](https://github.com/raweden/CoreCanvas/blob/master/Ideas.md) 
+A more detailed description of to road map is found within the [TODO.md](https://github.com/raweden/CoreCanvas/blob/master/TODO.md) and [Ideas.md](https://github.com/raweden/CoreCanvas/blob/master/Ideas.md) 
 
 *Sorted in most likely order to be implemented.*
 
